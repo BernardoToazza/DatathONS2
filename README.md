@@ -8,12 +8,5 @@ Nosso Roadmap
 
 A primeira parte que entendemos é que as validações possuem níveis de complexidade diferentes. Assim sendo, dividir os esforços em busca de solucionar aquilo que pode ser feito de forma menos elegante pode ser positivo. Nos primeiros grupos (1 a 3), tentamos solucionar o problema sem utilização da utilização de técnicas de NLP.
 
-#Bibliotecas utilizadas
-
-
-Grupo 1 a 3:
-
-A solução que buscamos é simples: 
-Importamos os dados fornecidos (https://dados.ons.org.br/dataset/datathons-4a-edicao/resource/ab00a0d6-63a2-4db9-b1c5-4cf79f1c7796) dos contratos e descompactamos-os.
 
 
